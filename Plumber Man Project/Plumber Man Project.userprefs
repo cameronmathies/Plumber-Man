@@ -1,8 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Menus\Levels.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Menus\MOldes\Levels\Player\PLayer.cs">
     <Files>
-      <File FileName="Assets\Menus\Levels.cs" Line="6" Column="20" />
+      <File FileName="Assets\Menus\MOldes\Levels\Player\PLayer.cs" Line="39" Column="1" />
+      <File FileName="Assets\Menus\MOldes\Levels\Player\____Player.cs" Line="46" Column="5" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

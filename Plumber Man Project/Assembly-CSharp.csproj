@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\Menus\Levels.cs" />
      <Compile Include="Assets\Menus\MOldes\Levels\Player\PLayer.cs" />
+     <Compile Include="Assets\Menus\MOldes\Levels\Player\____Player.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
