@@ -3,7 +3,7 @@ using System.Collections;
 
 public class Levels : MonoBehaviour {
 
-	void onClick(){
-		Application.LoadLevel ("Levels");
+	public void levels () {
+		Application.LoadLevel("Levels");
 	}
 }
