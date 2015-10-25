@@ -21,4 +21,19 @@ public class Levels : MonoBehaviour {
 	public void level5 () {
 		Application.LoadLevel("Level5");
 	}
+	public void level6 () {
+		Application.LoadLevel("Level6");
+	}
+	public void level7 () {
+		Application.LoadLevel("Level7");
+	}
+	public void level8 () {
+		Application.LoadLevel("Level8");
+	}
+	public void level9 () {
+		Application.LoadLevel("Level9");
+	}
+	public void level10 () {
+		Application.LoadLevel("Level10");
+	}
 }
