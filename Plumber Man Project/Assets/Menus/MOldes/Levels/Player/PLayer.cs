@@ -10,7 +10,7 @@ public class PLayer : MonoBehaviour {
 	
 	private Vector3 input;
 	private Vector3 spawn;
-		FixedUpdate(){
+		void FixedUpdate(){
 
 		if (Input.GetKey (KeyCode.LeftArrow)) {
 			transform.Translate (Vector3.left * Time.deltaTime * moveSpeed, Camera.main.transform);
